@@ -1,8 +1,8 @@
 {
-  "version": "1.0.47",
+  "version": "1.0.48",
   "package": "kbve-bugwars",
   "source": "cargo.toml",
-  "timestamp": "2025-11-29T03:28:15Z",
+  "timestamp": "2025-11-29T05:07:13Z",
   "build": {
     "unity": "6000.2.8f1",
     "node": "22",
